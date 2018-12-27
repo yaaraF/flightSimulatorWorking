@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yaara/CLionProjects/untitled/MySocket.cpp
+iostream
+-
+strings.h
+-
+cstring
+-
+cstdio
+-
+MySocket.h
+/home/yaara/CLionProjects/untitled/MySocket.h
+
+/home/yaara/CLionProjects/untitled/MySocket.h
+stdio.h
+-
+stdlib.h
+-
+netdb.h
+-
+unistd.h
+-
+netinet/in.h
+-
+string
+-
+sys/socket.h
+-
+map
+-
+netinet/in.h
+-
+vector
+-
+list
+/home/yaara/CLionProjects/untitled/list
+iostream
+-
+
