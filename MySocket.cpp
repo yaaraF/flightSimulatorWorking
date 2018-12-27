@@ -15,7 +15,7 @@ void *MySocket::openFlightSocket(void *s) {
     struct sockaddr_in serv_addr, cli_addr;
     int n;
 
-    /* First call to socket() function */
+    /* First call to socket function */
     sockfd = socket(AF_INET, SOCK_STREAM, 0);
 
     if (sockfd < 0) {
